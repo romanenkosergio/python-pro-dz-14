@@ -22,3 +22,9 @@ This will create the required tables in the database. Then you can run the follo
 ```bash
 poetry run python manage.py runserver
 ```
+
+## Commands
+For generate teachers you can use the following command:
+```bash
+poetry run python manage.py generate_teachers
+```
